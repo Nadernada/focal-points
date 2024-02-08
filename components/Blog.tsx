@@ -20,7 +20,7 @@ const Testimonials = () => {
               <Image src='/images/top-6.jpg' alt='blog-1' width={200} height={100} className='aspect-video rounded-2xl' />
               <p className='text-[20px] leading-[35px]'>the wagners' team takes second place.</p>
             </div>
-            <div className='flex flex-row py-8 space-y-14'>
+            <div className='flex flex-row space-x-4'>
               <Image src='/images/top-6.jpg' alt='blog-1' width={200} height={100} className='aspect-video rounded-2xl' />
               <p className='text-[20px] leading-[35px]'>the wagner's team takes second place.</p>
             </div>
